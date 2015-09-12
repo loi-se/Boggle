@@ -1,0 +1,8 @@
+C:\Users\Rol\Documents\My software development projects\Boggle\Boggle solver\Boggle solver\obj\x86\Debug\Boggle_solver.Form1.resources
+C:\Users\Rol\Documents\My software development projects\Boggle\Boggle solver\Boggle solver\obj\x86\Debug\Boggle_solver.Properties.Resources.resources
+C:\Users\Rol\Documents\My software development projects\Boggle\Boggle solver\Boggle solver\obj\x86\Debug\Boggle solver.csproj.GenerateResource.Cache
+C:\Users\Rol\Documents\My software development projects\Boggle\Boggle solver\Boggle solver\bin\Debug\Boggle solver.exe
+C:\Users\Rol\Documents\My software development projects\Boggle\Boggle solver\Boggle solver\bin\Debug\Boggle solver.pdb
+C:\Users\Rol\Documents\My software development projects\Boggle\Boggle solver\Boggle solver\obj\x86\Debug\Boggle solver.exe
+C:\Users\Rol\Documents\My software development projects\Boggle\Boggle solver\Boggle solver\obj\x86\Debug\Boggle solver.pdb
+C:\Users\Rol\Documents\My software development projects\Boggle\Boggle solver\Boggle solver\obj\x86\Debug\Boggle solver.csprojResolveAssemblyReference.cache

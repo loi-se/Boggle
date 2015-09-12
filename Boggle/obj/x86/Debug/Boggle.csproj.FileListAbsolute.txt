@@ -1,0 +1,22 @@
+C:\Users\Rol\Documents\My software development projects\Boggle\Boggle solver\Boggle solver\obj\x86\Debug\Boggle.csproj.GenerateResource.Cache
+C:\Users\Rol\Documents\My software development projects\Boggle\Boggle solver\Boggle solver\obj\x86\Debug\Boggle.csprojResolveAssemblyReference.cache
+C:\Users\Rol\Documents\My software development projects\Boggle\Boggle solver\Boggle solver\bin\Debug\Boggle.exe
+C:\Users\Rol\Documents\My software development projects\Boggle\Boggle solver\Boggle solver\bin\Debug\Boggle.pdb
+C:\Users\Rol\Documents\My software development projects\Boggle\Boggle solver\Boggle solver\obj\x86\Debug\Boggle.exe
+C:\Users\Rol\Documents\My software development projects\Boggle\Boggle solver\Boggle solver\obj\x86\Debug\Boggle.pdb
+C:\Users\Rol\Documents\My software development projects\Boggle\Boggle solver\Boggle solver\bin\Debug\Boggle.exe.config
+C:\Users\Rol\Documents\My software development projects\Boggle\Boggle solver\Boggle solver\obj\x86\Debug\Boggle_game.Properties.Resources.resources
+C:\Users\Rol\Documents\My software development projects\Boggle\Boggle solver\Boggle solver\obj\x86\Debug\Boggle_game.Form1.resources
+C:\Users\Rol\Documents\My software development projects\Boggle\Boggle\Boggle\bin\Debug\Boggle.exe.config
+C:\Users\Rol\Documents\My software development projects\Boggle\Boggle\Boggle\obj\x86\Debug\Boggle.exe
+C:\Users\Rol\Documents\My software development projects\Boggle\Boggle\Boggle\obj\x86\Debug\Boggle.pdb
+C:\Users\Rol\Documents\My software development projects\Boggle\Boggle\Boggle\bin\Debug\Boggle.exe
+C:\Users\Rol\Documents\My software development projects\Boggle\Boggle\Boggle\bin\Debug\Boggle.pdb
+C:\Users\Rol\Documents\My software development projects\Boggle\Boggle\Boggle\obj\x86\Debug\Boggle_game.Form1.resources
+C:\Users\Rol\Documents\My software development projects\Boggle\Boggle\Boggle\obj\x86\Debug\Boggle_game.Properties.Resources.resources
+C:\Users\Rol\Documents\My software development projects\Boggle\Boggle\Boggle\obj\x86\Debug\Boggle.csproj.GenerateResource.Cache
+C:\Users\Rol\Documents\My software development projects\Boggle\Boggle solver\Boggle\bin\Debug\Boggle.exe.config
+C:\Users\Rol\Documents\My software development projects\Boggle\Boggle solver\Boggle\obj\x86\Debug\Boggle.exe
+C:\Users\Rol\Documents\My software development projects\Boggle\Boggle solver\Boggle\obj\x86\Debug\Boggle.pdb
+C:\Users\Rol\Documents\My software development projects\Boggle\Boggle\Boggle\obj\x86\Debug\Boggle_game.Help.resources
+C:\Users\Rol\Documents\My software development projects\Boggle\Boggle\Boggle\obj\x86\Debug\Boggle.csprojResolveAssemblyReference.cache

@@ -1,0 +1,36 @@
+
+HOW TO PLAY THE GAME:
+--------------------------------------
+To start a game, simply click 'Shuffle'. You can set the field size, the langauge you play in, the timer in seconds and if the timer is active or not.
+ 
+When you hit ' Shuffle" the game will create a board. As soon as the board is completely visible, your timer starts! 
+Then it is time to type all your words into the lightgreen textbox in the upper left corner of the screen! Press "ENTER" to confirm the word.
+ 
+When you are out of time the game is over! When this happens, your final scores are all presented to you so you know how you did.
+You can also see which of the possible words you found (these words are shown in green in the gridview showing all possible words) and which not.
+By pressing the button: "Solve" during a game session you stop the timer and see all possible words. 
+
+When you click on a row header column of a word in the gridview with all possible words you can see where the word is located in the Boggle field.
+At any time you can click "shuffle" to stop the current game and start a new one immediately. 
+
+
+OBJECTIVE OF BOGGLE:
+-------------------------------
+The objective of Boggle is to find assorted words in a small board with assorted tiles. Each tile contains 1 letter. By moving from tile to tile, you can form words. 
+You can start a word from any tile on the board, and as long as the next tile in the word is adjacent to that tile, you can continue the word.
+You can move forwards, backwords, or diagonally. 
+
+However, you cannot use the same tile twice in a word. You also cannot cross-over the edge of the board. (for example, moving from the top of the board to the bottom) And, obviously, you cannot use the same word twice in one game._
+Much like Scrabble, certain words are not aloud in Boggle. Basically any word that starts with a capital letter is not aloud.  Examples would be proper names or countries. Abreviations are not aloud. 
+Foreign words are not aloud. Most slang words are not aloud ("gonna", "gotta", "wanna"). Any word with an apostrophe is also not aloud. 
+But beyond that, any word, even words with prefixes or suffixes, are aloud. So "Arriving", "Assisted", "Cats", and "Larger" are all valid.
+
+(Hint: The key to success at boggle is to take advantage of prefixes and suffixes. Add "S" to every noun you can. Obviously 2 points for "Tiger" is good, but 5 points for "Tiger" and "Tigers" is better. Try to keep an eye for "S", "ER", "ED", and "ING". They all add mega-points!)
+
+Your ultimate objective is to get as many words as possible in a round. When the round is up, you can no longer enter words. You'll have to click: ' shuffle' and try again with a different board!
+
+Scores are simply based on word sizes. A 3 letter word is worth 3 points, a 4 letter word is worth 4 points and so on.
+
+There is a file in the root folder titled "English.text" or "Dutch.text" (depending on which langauge you use). In this file is every single word that the game will recognize as a word in a straight downward 'one-per-line' list. 
+There are many words in this file, but obviously, some words might be missing. 
+You can add your own words to this file though if you are sure a certain word should be valid.
