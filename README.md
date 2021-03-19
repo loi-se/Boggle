@@ -9,3 +9,5 @@ Features:
 -Supported languages so far: English / Dutch / French
 
 -Play on a custom-sized Boggle field (maximum field size: 20 by 20)
+
+![Screenshot](Boggle.jpg)
